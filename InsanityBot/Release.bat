@@ -1,0 +1,1 @@
+D:/Insanity/Bot/InsanityBot/InsanityBot/bin/Release/netcoreapp3.1/InsanityBot.exe
